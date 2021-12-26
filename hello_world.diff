@@ -1,0 +1,6 @@
+--- hello_world.txt	2021-12-25 22:50:31.655539783 +0530
++++ hello_world_long.txt	2021-12-25 22:50:47.945539610 +0530
+@@ -1 +1,3 @@
+ Hello World
++
++It's a wonderful day!
