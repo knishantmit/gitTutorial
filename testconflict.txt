@@ -1,2 +1,2 @@
 test conflict from branch git1
-test conflict from branch git2
+test conflict from branch git2_conflict?
